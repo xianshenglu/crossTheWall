@@ -73,7 +73,7 @@ server {
   listen 80;
   listen [::]:80;
 
-  server_name v2ray.example.com
+  server_name v2ray.example.com;
 
   # path here should equal path in v2ray websocket path
   location / {
