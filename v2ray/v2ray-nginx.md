@@ -14,12 +14,12 @@
 
 ### 假设一些变量，方便大家配置
 
-服务器 IP: 108.172.5.29
-域名：example.com
-给 `v2ray` 科学上网用的子域名：`v2ray.example.com`
-给 `v2-ui` 用的子域名：`v2-ui.example.com`
-`v2ray` 默认端口：`80`
-`v2ray` 自定义端口：`8000`
+- 服务器 IP: 108.172.5.29
+- 域名：example.com
+- 给 `v2ray` 科学上网用的子域名：`v2ray.example.com`
+- 给 `v2-ui` 用的子域名：`v2-ui.example.com`
+- `v2ray` 默认端口：`80`
+- `v2ray` 自定义端口：`8000`
 
 ### 自定义 `v2ray` 的端口
 
