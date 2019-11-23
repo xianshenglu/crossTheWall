@@ -24,6 +24,6 @@
 
 - 最便宜的 [Virmach](https://billing.virmach.com/cart.php?gid=18)
 
-- 可以在同一台机器上免费切换 ip 的[Hostwinds]](https://www.hostwinds.com/vps/unmanaged-linux)
+- 可以在同一台机器上免费切换 ip 的 [Hostwinds](https://www.hostwinds.com/vps/unmanaged-linux)
 
 ## [v2ray 配置模版](https://github.com/veekxt/v2ray-template)
