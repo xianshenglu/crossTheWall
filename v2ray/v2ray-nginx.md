@@ -68,7 +68,7 @@ include /etc/nginx/conf.d/*.conf;
 
 3. 所以我们要切换到那个目录，新增一个文件，譬如 _v2ray.conf_，内容是
 
-```
+```shell
 server {
   listen 80;
   listen [::]:80;
@@ -128,7 +128,7 @@ Nginx 转发成功的话，重新开启翻墙，vpn 应该是正常运行的了�
 
 - 改完后，验证重启 `nginx`。
 
-```
+```shell
 nginx -t # 验证格式
 nginx -s reload # 重启
 ```
@@ -149,13 +149,13 @@ nginx -s reload # 重启
 
 - 查看某项系统服务是否运行，以 nginx 为例
 
-  ```
+  ```shell
   systemctl status nginx
   ```
 
   运行这个命令的前提是，已经把它纳入系统服务了，就是之前执行过
 
-  ```
+  ```shell
   systemctl enable nginx
   ```
 
