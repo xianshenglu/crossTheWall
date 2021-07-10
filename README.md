@@ -8,8 +8,11 @@
 
 - [x] 在上面的基础上优化，自定义 v2ray 端口，把 80 端口让出来，交给 Nginx，然后由 Nginx 转发给 v2ray，这样服务器 80 端口可以用来放 web 项目，v2-ui 的网址也可以通过域名访问，参考：[这里](./v2ray/v2ray-nginx.md)
 
-- [x] 引入 https 和 http2（配置文件[戳这](./v2ray/v2ray-nginx-https-http2/)）
+- [ ] 引入 https 和 http2（配置文件[戳这](./v2ray/v2ray-nginx-https-http2/)）
 
+## 用户篇
+
+- [v2ray+Cloudflare 用户修复指南](./v2ray-Cloudflare.md)
 ## CDN 节点
 
 - [Cloudflare 自定义 IP 节点收录](https://ofvps.com/201907510)
