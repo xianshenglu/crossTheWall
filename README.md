@@ -12,7 +12,7 @@
 
 ## 用户篇
 
-- [v2ray+Cloudflare 用户修复指南](./v2ray-Cloudflare.md)
+- [v2ray+Cloudflare 用户修复指南](./v2ray-cloudflare.md)
 ## CDN 节点
 
 - [Cloudflare 自定义 IP 节点收录](https://ofvps.com/201907510)
